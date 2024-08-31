@@ -1,3 +1,3 @@
 # Seahorse
 
-Creating drawing of seahorse with dofferent drawings aroudn and inside of it.
+Creating drawing of seahorse with different drawings around and inside of it.
